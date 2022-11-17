@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите трёхзначное число");
-string a =  Console.ReadLine(); 
+string a =  Console.ReadLine();
 if (a.Length != 3 )
 {
     Console.WriteLine("подумайте по лучше над числом которое ввели");
